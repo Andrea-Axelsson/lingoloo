@@ -1,0 +1,2 @@
+# lingoloo
+Language translation app
